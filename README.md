@@ -4,6 +4,8 @@
 
 访问链接：
 https://xueyou-map-slay-d3g2c88il5c345199.webapps.tcloudbase.com/map/
+未来计划上线链接（因服务器运维原因暂不可访问）：
+https://xueyou.xyz/map
 
 功能
 - 地图 + 列表展示可注射的诊所/医院
